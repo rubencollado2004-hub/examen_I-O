@@ -4,10 +4,10 @@ import java.util.HashMap;
 
 public class Utilidades {
 
-    // Energía liberada por desintegración en Julios (1 MeV = 1.602e-13 J)
+    
     public static final HashMap<String, Double> energias = new HashMap<>();
 
-    // Semivida de cada isótopo en segundos
+    
     public static final HashMap<String, Double> semividas = new HashMap<>();
 
     static {
